@@ -1,11 +1,11 @@
-public class Goat implements Features{
+public class Goat implements Features {
     @Override
     public void walk() {
-
+        System.out.println("walking");
     }
 
     @Override
-    public void Run() {
-
+    public void run() {
+        System.out.println("running");
     }
 }

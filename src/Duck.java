@@ -5,7 +5,7 @@ public class Duck implements Features,Fly{
     }
 
     @Override
-    public void Run() {
+    public void run() {
 
     }
 
